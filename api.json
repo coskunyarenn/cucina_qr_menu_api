@@ -1,0 +1,190 @@
+{
+  "products": [
+    {
+      "id": "category-1",
+      "type": "gunduzMenu",
+      "categoryImage": "https://picsum.photos/200",
+      "categoryHeader": "Breakfast",
+      "products": [
+        {
+          "id": "product-1",
+          "image": "https://picsum.photos/200",
+          "productName": "SAVOURY INCE & EGGS",
+          "price": 300,
+          "currency": "TL",
+          "productDescription": "Aromatic vegetables & spices flavored ground beef, fried eggs, lightly spiced chipotle peppered yoghurt parsley, grilled sourdough bread",
+          "available": true
+        },
+        {
+          "id": "product-2",
+          "image": "https://picsum.photos/201",
+          "productName": "CHOCOLATE FUDGE CAKE",
+          "price": 150,
+          "currency": "TL",
+          "productDescription": "Rich and moist chocolate cake topped with creamy chocolate fudge and a scoop of vanilla ice cream",
+          "available": true
+        },
+        {
+          "id": "product-3",
+          "image": "https://picsum.photos/202",
+          "productName": "Smoked salmon & Avacoda poached eggs & sourdough bread",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day. Freshly squeezed orange juice, served chilled and perfect for any time of the day. Freshly squeezed orange juice, served chilled and perfect for any time of the day. Freshly squeezed orange juice, served chilled and perfect for any time of the day. Freshly squeezed orange juice, served chilled and perfect for any time of the day.",
+          "available": true
+        },
+        {
+          "id": "product-4",
+          "image": "https://picsum.photos/202",
+          "productName": "Breakfast casserole",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-5",
+          "image": "https://picsum.photos/202",
+          "productName": "Sucuk & cheese scrambled eggs burrito",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-6",
+          "image": "https://picsum.photos/202",
+          "productName": "FRESH ORANGE JUICE",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-7",
+          "image": "https://picsum.photos/202",
+          "productName": "FRESH ORANGE JUICE",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-8",
+          "image": "https://picsum.photos/202",
+          "productName": "FRESH ORANGE JUICE",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-9",
+          "image": "https://picsum.photos/202",
+          "productName": "FRESH ORANGE JUICE",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-10",
+          "image": "https://picsum.photos/202",
+          "productName": "FRESH ORANGE JUICE",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-11",
+          "image": "https://picsum.photos/202",
+          "productName": "FRESH ORANGE JUICE",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        },
+        {
+          "id": "product-12",
+          "image": "https://picsum.photos/202",
+          "productName": "FRESH ORANGE JUICE",
+          "price": 50,
+          "currency": "TL",
+          "productDescription": "Freshly squeezed orange juice, served chilled and perfect for any time of the day",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "category-2",
+      "type": "gunduzMenu",
+      "categoryImage": "https://picsum.photos/203",
+      "categoryHeader": "Lunch",
+      "products": [
+        {
+          "id": "product-4",
+          "image": "https://picsum.photos/204",
+          "productName": "GRILLED CHICKEN SALAD",
+          "price": 250,
+          "currency": "TL",
+          "productDescription": "Fresh greens, grilled chicken breast, cherry tomatoes, cucumber, and a light vinaigrette dressing",
+          "available": true
+        },
+        {
+          "id": "product-5",
+          "image": "https://picsum.photos/205",
+          "productName": "CAESAR SALAD",
+          "price": 220,
+          "currency": "TL",
+          "productDescription": "Crisp romaine lettuce, grilled chicken, parmesan cheese, and croutons, all tossed in Caesar dressing",
+          "available": true
+        },
+        {
+          "id": "product-6",
+          "image": "https://picsum.photos/206",
+          "productName": "VEGGIE BURGER",
+          "price": 280,
+          "currency": "TL",
+          "productDescription": "Grilled veggie patty served with lettuce, tomato, pickles, and a side of crispy fries",
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "category-3",
+      "type": "dinnerMenu",
+      "categoryImage": "https://picsum.photos/207",
+      "categoryHeader": "Dinner",
+      "products": [
+        {
+          "id": "product-7",
+          "image": "https://picsum.photos/208",
+          "productName": "STEAK & MASH",
+          "price": 450,
+          "currency": "TL",
+          "productDescription": "Grilled steak served with creamy mashed potatoes, sautéed vegetables, and a rich red wine sauce",
+          "available": false
+        },
+        {
+          "id": "product-8",
+          "image": "https://picsum.photos/209",
+          "productName": "SALMON FILLET",
+          "price": 500,
+          "currency": "TL",
+          "productDescription": "Grilled salmon fillet served with roasted vegetables and lemon butter sauce",
+          "available": true
+        },
+        {
+          "id": "product-9",
+          "image": "https://picsum.photos/210",
+          "productName": "RAVIOLI",
+          "price": 350,
+          "currency": "TL",
+          "productDescription": "Handmade ravioli filled with ricotta cheese and spinach, served with a rich tomato sauce",
+          "available": true
+        }
+      ]
+    }
+  ]
+}
